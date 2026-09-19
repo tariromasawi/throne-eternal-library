@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tariromasawi.github.io/throne-eternal-library/sitemap.xml
